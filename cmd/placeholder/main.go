@@ -8,5 +8,5 @@ import (
 
 func main() {
 	p := &plugin.Plugin{Name: "World"}
-	fmt.Printf("Hello, %#v!\n", p)
+	fmt.Println("Hello, ", p.Diff())
 }
