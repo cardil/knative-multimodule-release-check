@@ -1,0 +1,7 @@
+# github.com/davecgh/go-spew v1.1.1
+## explicit
+github.com/davecgh/go-spew/spew
+# k8s.io/utils v0.0.0-20240310230437-4693a0247e57
+## explicit; go 1.18
+k8s.io/utils/diff
+k8s.io/utils/field
