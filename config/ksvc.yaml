@@ -1,0 +1,13 @@
+---
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: placeholder
+spec:
+  template:
+    spec:
+      containers:
+        - image: ko://github.com/cardil/knative-multimodule-release-check/cmd/placeholder
+          env:
+            - name: PLACEHOLDER
+              value: "placeholder"
