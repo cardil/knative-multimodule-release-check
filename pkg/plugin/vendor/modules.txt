@@ -5,3 +5,7 @@ github.com/davecgh/go-spew/spew
 ## explicit; go 1.18
 k8s.io/utils/diff
 k8s.io/utils/field
+# knative.dev/hack v0.0.0-20240418013430-9f6c92e9ee3f
+## explicit; go 1.18
+knative.dev/hack/pkg/constraints
+knative.dev/hack/pkg/utest/assert
