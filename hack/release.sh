@@ -28,6 +28,9 @@ build_dir="${BUILD_DIR:-${REPO_ROOT_DIR}/build/_output}"
 
 function build_release {
   export ARTIFACTS_TO_PUBLISH
+  rm -rf "${build_dir}"
+  mkdir -p "${build_dir}"
+  true > "${build_dir}/artifacts.list"
   go build -o "${build_dir}/placeholder" "${REPO_ROOT_DIR}/cmd/placeholder"
   echo "${build_dir}/placeholder" >> "${build_dir}/artifacts.list"
   GOARCH=arm64 go build -o "${build_dir}/placeholder-arm64" "${REPO_ROOT_DIR}/cmd/placeholder"
