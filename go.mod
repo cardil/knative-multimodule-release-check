@@ -13,3 +13,5 @@ require (
 )
 
 replace github.com/cardil/knative-multimodule-release-check/pkg/plugin => ./pkg/plugin
+
+replace knative.dev/hack => github.com/cardil/knative-hack v0.0.0-20240424092942-172496d82448
