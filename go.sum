@@ -1,5 +1,5 @@
-github.com/cardil/knative-hack v0.0.0-20240424170608-17e70d16d601 h1:F5/VAFtlN+wIrdLYkfND5DnqMu69gx0emX/W5ulUJuA=
-github.com/cardil/knative-hack v0.0.0-20240424170608-17e70d16d601/go.mod h1:yk2OjGDsbEnQjfxdm0/HJKS2WqTLEFg/N6nUs6Rqx3Q=
+github.com/cardil/knative-hack v0.0.0-20240424172946-20c61403cfb1 h1:WD5nKaDXtoNiNrljgyULRQJeElLDS6aOjqrL/tEmjvU=
+github.com/cardil/knative-hack v0.0.0-20240424172946-20c61403cfb1/go.mod h1:yk2OjGDsbEnQjfxdm0/HJKS2WqTLEFg/N6nUs6Rqx3Q=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 k8s.io/utils v0.0.0-20240310230437-4693a0247e57 h1:gbqbevonBh57eILzModw6mrkbwM0gQBEuevE/AaBsHY=

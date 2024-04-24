@@ -1,3 +1,5 @@
+github.com/cardil/knative-hack v0.0.0-20240424172946-20c61403cfb1 h1:WD5nKaDXtoNiNrljgyULRQJeElLDS6aOjqrL/tEmjvU=
+github.com/cardil/knative-hack v0.0.0-20240424172946-20c61403cfb1/go.mod h1:yk2OjGDsbEnQjfxdm0/HJKS2WqTLEFg/N6nUs6Rqx3Q=
 github.com/go-logr/logr v1.2.0 h1:QK40JKJyMdUDz+h+xvCsru/bJhvG0UxvePV0ufL/AcE=
 github.com/go-logr/logr v1.2.0/go.mod h1:jdQByPbusPIv2/zmleS9BjJVeZ6kBagPoEUsqbVz/1A=
 k8s.io/klog/v2 v2.80.1 h1:atnLQ121W371wYYFawwYx1aEY2eUfs4l3J72wtgAwV4=
